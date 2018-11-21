@@ -18,8 +18,8 @@ export class AsideNavComponent implements OnInit, AfterViewInit {
           'link': 'setup'
         },
         {
-          'item': 'Boiler Cylces',
-          'link': 'trackbase',
+          'item': 'Broiler Cycles',
+          'link': 'broiler-cycles',
           // 'subItems': [
           //   { 'item': 'Sequence' },
           //   { 'item': 'Timeline' },

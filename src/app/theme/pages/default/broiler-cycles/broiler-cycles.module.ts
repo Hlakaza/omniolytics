@@ -4,10 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { LayoutModule } from '../../../layouts/layout.module';
 import { DefaultComponent } from '../default.component';
-import { TrackbaseComponent } from './trackbase.component';
-import { ActiveTrackComponent } from './active-track/active-track.component';
-import { StepFormComponent } from './step-form/step-form.component';
-import { TrackbaseDashboardComponent } from './trackbase-dashboard/trackbase-dashboard.component';
+import { BroilerCyclesComponent } from './broiler-cycles.component';
 
 
 const routes: Routes = [
@@ -17,7 +14,7 @@ const routes: Routes = [
         'children': [
             {
                 'path': '',
-                'component': TrackbaseComponent
+                'component': BroilerCyclesComponent
             }
         ]
     }
@@ -27,17 +24,13 @@ const routes: Routes = [
         CommonModule, RouterModule.forChild(routes), LayoutModule
     ], exports: [
         RouterModule,
-        ActiveTrackComponent,
-        StepFormComponent,
-        TrackbaseDashboardComponent
+
     ], declarations: [
-        TrackbaseComponent,
-        ActiveTrackComponent,
-        StepFormComponent,
-        TrackbaseDashboardComponent
+        BroilerCyclesComponent,
+
     ]
 })
-export class TrackbaseModule {
+export class BroilerCyclesModule {
 
 
 

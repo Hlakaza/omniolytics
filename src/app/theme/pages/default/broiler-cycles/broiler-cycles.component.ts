@@ -4,11 +4,12 @@ import { ScriptLoaderService } from '../../../../_services/script-loader.service
 
 
 @Component({
+    // tslint:disable-next-line:component-selector
     selector: '.m-grid__item.m-grid__item--fluid.m-wrapper',
-    templateUrl: './trackbase.component.html',
+    templateUrl: './broiler-cycles.component.html',
     encapsulation: ViewEncapsulation.None,
 })
-export class TrackbaseComponent implements OnInit, AfterViewInit {
+export class BroilerCyclesComponent implements OnInit, AfterViewInit {
 
     show: boolean;
     sList = [

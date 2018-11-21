@@ -21,8 +21,8 @@ const routes: Routes = [
                 'loadChildren': '.\/pages\/default\/account-management\/account-management.module#AccountManagementModule'
             },
             {
-                'path': 'trackbase',
-                'loadChildren': '.\/pages\/default\/trackbase\/trackbase.module#TrackbaseModule'
+                'path': 'broiler-cycles',
+                'loadChildren': '.\/pages\/default\/broiler-cycles\/broiler-cycles.module#BroilerCyclesModule'
             },
             {
                 'path': 'trackit',
