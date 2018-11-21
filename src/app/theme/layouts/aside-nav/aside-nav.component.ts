@@ -14,40 +14,40 @@ export class AsideNavComponent implements OnInit, AfterViewInit {
           'link': 'home'
         },
         {
-          'item': 'Account Management',
-          'link': 'account-management'
+          'item': 'Setup',
+          'link': 'setup'
         },
         {
-          'item': 'Trackbase',
+          'item': 'Boiler Cylces',
           'link': 'trackbase',
-          'subItems': [
-            { 'item': 'Sequence' },
-            { 'item': 'Timeline' },
-            { 'item': ' Action Plan' },
-            { 'item': 'Checklist' },
-            { 'item': ' SLA' },
-          ]
+          // 'subItems': [
+          //   { 'item': 'Sequence' },
+          //   { 'item': 'Timeline' },
+          //   { 'item': ' Action Plan' },
+          //   { 'item': 'Checklist' },
+          //   { 'item': ' SLA' },
+          // ]
         },
         {
-          'item': 'Trackit',
+          'item': 'Insights',
           'link': 'trackit',
         },
         {
-          'item': 'Reports',
+          'item': 'Admin Tool',
           'link': 'reports'
-        },
-        {
-          'item': 'User Profile',
-          'link': 'profile'
-        },
-        {
-          'item': 'System Data',
-          'link': 'system-data'
-        },
-        {
-          'item': 'Setup',
-          'link': 'setup'
         }
+        // ,{
+        //   'item': 'User Profile',
+        //   'link': 'profile'
+        // },
+        // {
+        //   'item': 'System Data',
+        //   'link': 'system-data'
+        // },
+        // {
+        //   'item': 'Setup',
+        //   'link': 'setup'
+        // }
       ];
 
     constructor() {}
@@ -55,9 +55,10 @@ export class AsideNavComponent implements OnInit, AfterViewInit {
 
     }
     ngAfterViewInit() {
-
         mLayout.initAside();
-        let menu = (<any>$('#m_aside_left')).mMenu(); let item = $(menu).find('a[href="' + window.location.pathname + '"]').parent('.m-menu__item'); (<any>$(menu).data('menu')).setActiveItem(item);
+        const menu = (<any>$('#m_aside_left')).mMenu();
+        const item = $(menu).find('a[href="' + window.location.pathname + '"]').parent('.m-menu__item');
+        (<any>$(menu).data('menu')).setActiveItem(item);
     }
 
 }

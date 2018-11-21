@@ -1939,14 +1939,14 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary.focus,
@@ -1956,16 +1956,16 @@ fieldset[disabled] a.btn {
 
 .btn-primary.disabled,
 .btn-primary:disabled {
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary.active,
 .btn-primary:active,
 .show>.btn-primary.dropdown-toggle {
-    background-color: #f29500;
+    background-color: #34bfa3;
     background-image: none;
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .btn-secondary {
@@ -2186,16 +2186,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-primary {
-    color: #e98f00;
+    color: #34bfa3;
     background-color: transparent;
     background-image: none;
-    border-color: #e98f00
+    border-color: #34bfa3
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-outline-primary.focus,
@@ -2205,7 +2205,7 @@ fieldset[disabled] a.btn {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-    color: #e98f00;
+    color: #34bfa3;
     background-color: transparent
 }
 
@@ -2213,8 +2213,8 @@ fieldset[disabled] a.btn {
 .btn-outline-primary:active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-outline-secondary {
@@ -2443,7 +2443,7 @@ fieldset[disabled] a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #e98f00;
+    color: #34bfa3;
     border-radius: 0
 }
 
@@ -8390,8 +8390,8 @@ a.text-dark:hover {
 
 .btn-brand {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-brand:hover {
@@ -8407,8 +8407,8 @@ a.text-dark:hover {
 
 .btn-brand.disabled,
 .btn-brand:disabled {
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-brand.active,
@@ -8420,16 +8420,16 @@ a.text-dark:hover {
 }
 
 .btn-outline-brand {
-    color: #f29500;
+    color: #34bfa3;
     background-color: transparent;
     background-image: none;
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .btn-outline-brand:hover {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-outline-brand.focus,
@@ -8439,7 +8439,7 @@ a.text-dark:hover {
 
 .btn-outline-brand.disabled,
 .btn-outline-brand:disabled {
-    color: #f29500;
+    color: #34bfa3;
     background-color: transparent
 }
 
@@ -8447,8 +8447,8 @@ a.text-dark:hover {
 .btn-outline-brand:active,
 .show>.btn-outline-brand.dropdown-toggle {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-metal {
@@ -8642,8 +8642,8 @@ a.text-dark:hover {
 
 .btn-focus {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-focus:hover {
@@ -8659,8 +8659,8 @@ a.text-dark:hover {
 
 .btn-focus.disabled,
 .btn-focus:disabled {
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-focus.active,
@@ -8672,16 +8672,16 @@ a.text-dark:hover {
 }
 
 .btn-outline-focus {
-    color: #f29500;
+    color: #34bfa3;
     background-color: transparent;
     background-image: none;
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .btn-outline-focus:hover {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-outline-focus.focus,
@@ -8691,7 +8691,7 @@ a.text-dark:hover {
 
 .btn-outline-focus.disabled,
 .btn-outline-focus:disabled {
-    color: #f29500;
+    color: #34bfa3;
     background-color: transparent
 }
 
@@ -8699,20 +8699,20 @@ a.text-dark:hover {
 .btn-outline-focus:active,
 .show>.btn-outline-focus.dropdown-toggle {
     color: #fff;
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary.focus,
@@ -8722,29 +8722,29 @@ a.text-dark:hover {
 
 .btn-primary.disabled,
 .btn-primary:disabled {
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-primary.active,
 .btn-primary:active,
 .show>.btn-primary.dropdown-toggle {
-    background-color: #e98f00;
+    background-color: #34bfa3;
     background-image: none;
-    border-color: #e98f00
+    border-color: #34bfa3
 }
 
 .btn-outline-primary {
-    color: #e98f00;
+    color: #34bfa3;
     background-color: transparent;
     background-image: none;
-    border-color: #e98f00
+    border-color: #34bfa3
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-outline-primary.focus,
@@ -8754,7 +8754,7 @@ a.text-dark:hover {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-    color: #e98f00;
+    color: #34bfa3;
     background-color: transparent
 }
 
@@ -8762,8 +8762,8 @@ a.text-dark:hover {
 .btn-outline-primary:active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #e98f00;
-    border-color: #e98f00
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .btn-success {
@@ -9237,13 +9237,13 @@ a.text-dark:hover {
 .alert.m-alert--outline.alert-brand {
     color: #575962;
     background-color: #fff;
-    border-color: #f29500;
-    color: #f29500;
+    border-color: #34bfa3;
+    color: #34bfa3;
     font-weight: 400
 }
 
 .alert.m-alert--outline.alert-brand hr {
-    border-top-color: #f29500
+    border-top-color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-brand .alert-link {
@@ -9251,16 +9251,16 @@ a.text-dark:hover {
 }
 
 .alert.m-alert--outline.alert-brand .close {
-    color: #f29500
+    color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-brand .m-alert__icon i {
-    color: #f29500
+    color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-brand.m-alert--icon-solid .m-alert__icon {
     position: relative;
-    background: #f29500
+    background: #34bfa3
 }
 
 .alert.m-alert--outline.alert-brand.m-alert--icon-solid .m-alert__icon i {
@@ -9268,7 +9268,7 @@ a.text-dark:hover {
 }
 
 .alert.m-alert--outline.alert-brand.m-alert--icon-solid .m-alert__icon span {
-    border-left-color: #f29500
+    border-left-color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-metal {
@@ -9385,8 +9385,8 @@ a.text-dark:hover {
 .alert.m-alert--outline.alert-focus {
     color: #575962;
     background-color: #fff;
-    border-color: #f29500;
-    color: #f29500;
+    border-color: #34bfa3;
+    color: #34bfa3;
     font-weight: 400
 }
 
@@ -9399,16 +9399,16 @@ a.text-dark:hover {
 }
 
 .alert.m-alert--outline.alert-focus .close {
-    color: #f29500
+    color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-focus .m-alert__icon i {
-    color: #f29500
+    color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-focus.m-alert--icon-solid .m-alert__icon {
     position: relative;
-    background: #f29500
+    background: #34bfa3
 }
 
 .alert.m-alert--outline.alert-focus.m-alert--icon-solid .m-alert__icon i {
@@ -9416,7 +9416,7 @@ a.text-dark:hover {
 }
 
 .alert.m-alert--outline.alert-focus.m-alert--icon-solid .m-alert__icon span {
-    border-left-color: #f29500
+    border-left-color: #34bfa3
 }
 
 .alert.m-alert--outline.alert-primary {
@@ -9889,7 +9889,7 @@ a.text-dark:hover {
 }
 
 .nav.nav-pills.nav-pills--brand .nav-link.active {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -9898,7 +9898,7 @@ a.text-dark:hover {
 }
 
 .nav.nav-pills.nav-pills--brand .nav-item.show .nav-link {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -9961,7 +9961,7 @@ a.text-dark:hover {
 }
 
 .nav.nav-pills.nav-pills--focus .nav-link.active {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -9970,7 +9970,7 @@ a.text-dark:hover {
 }
 
 .nav.nav-pills.nav-pills--focus .nav-item.show .nav-link {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -10769,7 +10769,7 @@ body.m--skin-dark {
 }
 
 .m--font-brand {
-    color: #f29500 !important
+    color: #34bfa3 !important
 }
 
 .m--font-inverse-brand {
@@ -10777,11 +10777,11 @@ body.m--skin-dark {
 }
 
 .m--bg-brand {
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .m--bg-fill-brand {
-    background-color: #f29500 !important;
+    background-color: #34bfa3 !important;
     color: #fff !important
 }
 
@@ -10837,7 +10837,7 @@ body.m--skin-dark {
 }
 
 .m--font-focus {
-    color: #f29500 !important
+    color: #34bfa3 !important
 }
 
 .m--font-inverse-focus {
@@ -10845,11 +10845,11 @@ body.m--skin-dark {
 }
 
 .m--bg-focus {
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .m--bg-fill-focus {
-    background-color: #f29500 !important;
+    background-color: #34bfa3 !important;
     color: #fff !important
 }
 
@@ -13630,7 +13630,7 @@ body.m--skin-dark {
 .m-datatable.m-datatable--default>.m-datatable__table>.m-datatable__body .m-datatable__row>.m-datatable__cell .m-checkbox.m-checkbox--solid>input:checked~span,
 .m-datatable.m-datatable--default>.m-datatable__table>.m-datatable__foot .m-datatable__row>.m-datatable__cell .m-checkbox.m-checkbox--solid>input:checked~span,
 .m-datatable.m-datatable--default>.m-datatable__table>.m-datatable__head .m-datatable__row>.m-datatable__cell .m-checkbox.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-datatable.m-datatable--default>.m-datatable__table>.m-datatable__foot .m-datatable__row>.m-datatable__cell,
@@ -13665,7 +13665,7 @@ body.m--skin-dark {
 
 .m-datatable.m-datatable--default.m-datatable--subtable>.m-datatable__table>.m-datatable__body .m-datatable__toggle-subtable>i {
     color: #cfcedb;
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-datatable.m-datatable--default.m-datatable--subtable>.m-datatable__table>.m-datatable__body .m-datatable__row.m-datatable__row--detail-expanded>.m-datatable__cell {
@@ -13711,7 +13711,7 @@ body.m--skin-dark {
 .m-datatable.m-datatable--default>.m-datatable__pager>.m-datatable__pager-nav>li>.m-datatable__pager-link.m-datatable__pager-link--last,
 .m-datatable.m-datatable--default>.m-datatable__pager>.m-datatable__pager-nav>li>.m-datatable__pager-link.m-datatable__pager-link--next,
 .m-datatable.m-datatable--default>.m-datatable__pager>.m-datatable__pager-nav>li>.m-datatable__pager-link.m-datatable__pager-link--prev {
-    color: #f29500;
+    color: #34bfa3;
     background: #edecf8
 }
 
@@ -13723,12 +13723,12 @@ body.m--skin-dark {
 }
 
 .m-datatable.m-datatable--default>.m-datatable__pager>.m-datatable__pager-nav>li>.m-datatable__pager-link:hover {
-    color: #f29500;
+    color: #34bfa3;
     background: #edecf8
 }
 
 .m-datatable.m-datatable--default>.m-datatable__pager>.m-datatable__pager-nav>li>.m-datatable__pager-link.m-datatable__pager-link--active {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -14004,7 +14004,7 @@ body.m--skin-dark {
 .m-nav>.m-nav__item:hover>.m-nav__heading .m-nav__link-text,
 .m-nav>.m-nav__item:hover>.m-nav__link .m-nav__link-icon,
 .m-nav>.m-nav__item:hover>.m-nav__link .m-nav__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav>.m-nav__item.m-nav__item--active>.m-nav__heading .m-nav__link-bullet.m-nav__link-bullet--dot>span,
@@ -14015,7 +14015,7 @@ body.m--skin-dark {
 .m-nav>.m-nav__item:hover>.m-nav__heading .m-nav__link-bullet.m-nav__link-bullet--line>span,
 .m-nav>.m-nav__item:hover>.m-nav__link .m-nav__link-bullet.m-nav__link-bullet--dot>span,
 .m-nav>.m-nav__item:hover>.m-nav__link .m-nav__link-bullet.m-nav__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-nav>.m-nav__item.m-nav__item--disabled>.m-nav__heading .m-nav__link-text,
@@ -14036,7 +14036,7 @@ body.m--skin-dark {
 }
 
 .m-nav>.m-nav__section .m-nav__section-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav>.m-nav__section .m-nav__section-icon {
@@ -14082,7 +14082,7 @@ body.m--skin-dark {
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__heading .m-nav__link-text,
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__link .m-nav__link-icon,
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__link .m-nav__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav.m-nav--skin-dark>.m-nav__item.m-nav__item--active>.m-nav__heading .m-nav__link-bullet.m-nav__link-bullet--dot>span,
@@ -14093,7 +14093,7 @@ body.m--skin-dark {
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__heading .m-nav__link-bullet.m-nav__link-bullet--line>span,
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__link .m-nav__link-bullet.m-nav__link-bullet--dot>span,
 .m-nav.m-nav--skin-dark>.m-nav__item:hover>.m-nav__link .m-nav__link-bullet.m-nav__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-nav.m-nav--skin-dark>.m-nav__item.m-nav__item--disabled>.m-nav__heading .m-nav__link-text,
@@ -14114,7 +14114,7 @@ body.m--skin-dark {
 }
 
 .m-nav.m-nav--skin-dark>.m-nav__section .m-nav__section-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav.m-nav--skin-dark>.m-nav__section .m-nav__section-icon {
@@ -14189,7 +14189,7 @@ body.m--skin-dark {
 }
 
 .m-nav-grid .m-nav-grid__row .m-nav-grid__item .m-nav-grid__text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav-grid .m-nav-grid__row .m-nav-grid__item:hover {
@@ -14218,7 +14218,7 @@ body.m--skin-dark {
 }
 
 .m-nav-grid.m-nav-grid--skin-dark .m-nav-grid__row .m-nav-grid__item .m-nav-grid__text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-nav-grid.m-nav-grid--skin-dark .m-nav-grid__row .m-nav-grid__item:hover {
@@ -14325,7 +14325,7 @@ body.m--skin-dark {
 }
 
 .m-scroll-top {
-    background: #f29500;
+    background: #34bfa3;
     -webkit-box-shadow: 0 0 15px 1px rgba(113, 106, 202, .2);
     -moz-box-shadow: 0 0 15px 1px rgba(113, 106, 202, .2);
     box-shadow: 0 0 15px 1px rgba(113, 106, 202, .2)
@@ -14352,7 +14352,7 @@ body.m--skin-dark {
 }
 
 .m-scroll-top.m-scroll-top--skin-dark:hover>i {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-dropdown {
@@ -14925,11 +14925,11 @@ body.m--skin-dark {
 }
 
 .m-dropdown.m-dropdown--skin-dark.m-dropdown--header-bg-fill.m-dropdown--arrow .m-dropdown__arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-dropdown.m-dropdown--skin-dark.m-dropdown--header-bg-fill .m-dropdown__header {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-dropdown.m-dropdown--skin-dark.m-dropdown--header-bg-fill .m-dropdown__header .m-dropdown__header-title {
@@ -14950,11 +14950,11 @@ body.m--skin-dark {
 }
 
 .m-dropdown.m-dropdown--header-bg-fill.m-dropdown--arrow .m-dropdown__arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-dropdown.m-dropdown--header-bg-fill .m-dropdown__header {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-dropdown.m-dropdown--header-bg-fill .m-dropdown__header .m-dropdown__header-title {
@@ -15072,15 +15072,15 @@ body.m--skin-dark {
 
 .m-tabs-line.m-tabs-line--brand a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link:hover {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--brand a.m-tabs__link.active,
 .m-tabs-line.m-tabs-line--brand a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link.active,
 .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link:hover {
-    color: #f29500;
-    border-bottom: 1px solid #f29500
+    color: #34bfa3;
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--brand a.m-tabs__link.active>i,
@@ -15152,15 +15152,15 @@ body.m--skin-dark {
 
 .m-tabs-line.m-tabs-line--focus a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--focus.nav.nav-tabs .nav-link:hover {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--focus a.m-tabs__link.active,
 .m-tabs-line.m-tabs-line--focus a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--focus.nav.nav-tabs .nav-link.active,
 .m-tabs-line.m-tabs-line--focus.nav.nav-tabs .nav-link:hover {
-    color: #f29500;
-    border-bottom: 1px solid #f29500
+    color: #34bfa3;
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--focus a.m-tabs__link.active>i,
@@ -15311,15 +15311,15 @@ body.m--skin-dark {
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand.nav.nav-tabs .nav-link:hover {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand a.m-tabs__link.active,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand.nav.nav-tabs .nav-link.active,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand.nav.nav-tabs .nav-link:hover {
-    color: #f29500;
-    border-bottom: 1px solid #f29500
+    color: #34bfa3;
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--brand a.m-tabs__link.active>i,
@@ -15391,15 +15391,15 @@ body.m--skin-dark {
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus.nav.nav-tabs .nav-link:hover {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus a.m-tabs__link.active,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus a.m-tabs__link:hover,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus.nav.nav-tabs .nav-link.active,
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus.nav.nav-tabs .nav-link:hover {
-    color: #f29500;
-    border-bottom: 1px solid #f29500
+    color: #34bfa3;
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-tabs-line.m-tabs-line--skin-dark.m-tabs-line--focus a.m-tabs__link.active>i,
@@ -15569,7 +15569,7 @@ body.m--skin-dark {
 }
 
 .m-badge.m-badge--brand {
-    background-color: #f29500;
+    background-color: #34bfa3;
     color: #fff
 }
 
@@ -15589,7 +15589,7 @@ body.m--skin-dark {
 }
 
 .m-badge.m-badge--focus {
-    background-color: #f29500;
+    background-color: #34bfa3;
     color: #fff
 }
 
@@ -15648,33 +15648,33 @@ body.m--skin-dark {
 }
 
 .m-link {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link:hover {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link:hover:after {
-    border-bottom: 1px solid #f29500;
+    border-bottom: 1px solid #34bfa3;
     opacity: .3
 }
 
 .m-link.m-link--skin-dark {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link.m-link--skin-dark:hover {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link.m-link--skin-dark:hover:after {
-    border-bottom: 1px solid #f29500;
+    border-bottom: 1px solid #34bfa3;
     opacity: .3
 }
 
 .m-link.m-link--brand {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link.m-link--brand:hover {
@@ -15726,7 +15726,7 @@ body.m--skin-dark {
 }
 
 .m-link.m-link--focus {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-link.m-link--focus:hover {
@@ -15904,11 +15904,11 @@ body.m--skin-dark {
 }
 
 .m-separator.m-separator--brand {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-separator.m-separator--brand.m-separator--dashed {
-    border-bottom: 1px dashed #f29500
+    border-bottom: 1px dashed #34bfa3
 }
 
 .m-separator.m-separator--metal {
@@ -15936,11 +15936,11 @@ body.m--skin-dark {
 }
 
 .m-separator.m-separator--focus {
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-separator.m-separator--focus.m-separator--dashed {
-    border-bottom: 1px dashed #f29500
+    border-bottom: 1px dashed #34bfa3
 }
 
 .m-separator.m-separator--primary {
@@ -16063,7 +16063,7 @@ code {
 }
 
 .btn.m-btn--label-brand {
-    color: #f29500
+    color: #34bfa3
 }
 
 .btn.m-btn--label-metal {
@@ -16079,7 +16079,7 @@ code {
 }
 
 .btn.m-btn--label-focus {
-    color: #f29500
+    color: #34bfa3
 }
 
 .btn.m-btn--label-primary {
@@ -16779,9 +16779,9 @@ code {
     -webkit-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
     -moz-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
     box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
-    background: #f29500 !important;
+    background: #34bfa3 !important;
     color: #fff !important;
-    border-color: #f29500 !important
+    border-color: #34bfa3 !important
 }
 
 .btn.m-btn--air.btn-default.focus i,
@@ -16807,9 +16807,9 @@ code {
 .btn.m-btn--hover-brand:focus,
 .btn.m-btn--hover-brand:hover,
 .show>.btn.m-btn--hover-brand.dropdown-toggle {
-    border-color: #f29500 !important;
+    border-color: #34bfa3 !important;
     color: #fff !important;
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .btn.m-btn--hover-brand.active i,
@@ -16826,83 +16826,83 @@ code {
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-brand {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-metal {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: linear-gradient(135deg, #f29500 30%, #c4c5d6 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-light {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: linear-gradient(135deg, #f29500 30%, #fff 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #fff 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-accent {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: linear-gradient(135deg, #f29500 30%, #00c5dc 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-focus {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-primary {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: linear-gradient(135deg, #f29500 30%, #5867dd 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #5867dd 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-success {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: linear-gradient(135deg, #f29500 30%, #34bfa3 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-info {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: linear-gradient(135deg, #f29500 30%, #36a3f7 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-warning {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: linear-gradient(135deg, #f29500 30%, #ffb822 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #ffb822 100%)
 }
 
 .btn.m-btn--gradient-from-brand.m-btn--gradient-to-danger {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f4516c 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #f4516c 100%)
 }
 
 .btn.m-btn--hover-metal:not(.btn-secondary):not(.btn-outline-light) {
@@ -16939,10 +16939,10 @@ code {
 
 .btn.m-btn--gradient-from-metal.m-btn--gradient-to-brand {
     background: #c4c5d6;
-    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: linear-gradient(135deg, #c4c5d6 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-metal.m-btn--gradient-to-metal {
@@ -16971,10 +16971,10 @@ code {
 
 .btn.m-btn--gradient-from-metal.m-btn--gradient-to-focus {
     background: #c4c5d6;
-    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: linear-gradient(135deg, #c4c5d6 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-metal.m-btn--gradient-to-primary {
@@ -17051,10 +17051,10 @@ code {
 
 .btn.m-btn--gradient-from-light.m-btn--gradient-to-brand {
     background: #fff;
-    background: -webkit-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: linear-gradient(135deg, #fff 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #fff 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-light.m-btn--gradient-to-metal {
@@ -17083,10 +17083,10 @@ code {
 
 .btn.m-btn--gradient-from-light.m-btn--gradient-to-focus {
     background: #fff;
-    background: -webkit-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: linear-gradient(135deg, #fff 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #fff 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-light.m-btn--gradient-to-primary {
@@ -17163,10 +17163,10 @@ code {
 
 .btn.m-btn--gradient-from-accent.m-btn--gradient-to-brand {
     background: #00c5dc;
-    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: linear-gradient(135deg, #00c5dc 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-accent.m-btn--gradient-to-metal {
@@ -17195,10 +17195,10 @@ code {
 
 .btn.m-btn--gradient-from-accent.m-btn--gradient-to-focus {
     background: #00c5dc;
-    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: linear-gradient(135deg, #00c5dc 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-accent.m-btn--gradient-to-primary {
@@ -17255,9 +17255,9 @@ code {
 .btn.m-btn--hover-focus:focus,
 .btn.m-btn--hover-focus:hover,
 .show>.btn.m-btn--hover-focus.dropdown-toggle {
-    border-color: #f29500 !important;
+    border-color: #34bfa3 !important;
     color: #fff !important;
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .btn.m-btn--hover-focus.active i,
@@ -17274,83 +17274,83 @@ code {
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-brand {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-metal {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: linear-gradient(135deg, #f29500 30%, #c4c5d6 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-light {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: linear-gradient(135deg, #f29500 30%, #fff 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #fff 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-accent {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: linear-gradient(135deg, #f29500 30%, #00c5dc 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-focus {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-primary {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: linear-gradient(135deg, #f29500 30%, #5867dd 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #5867dd 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-success {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: linear-gradient(135deg, #f29500 30%, #34bfa3 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-info {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: linear-gradient(135deg, #f29500 30%, #36a3f7 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-warning {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: linear-gradient(135deg, #f29500 30%, #ffb822 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #ffb822 100%)
 }
 
 .btn.m-btn--gradient-from-focus.m-btn--gradient-to-danger {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f4516c 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #f4516c 100%)
 }
 
 .btn.m-btn--hover-primary:not(.btn-secondary):not(.btn-outline-light) {
@@ -17387,10 +17387,10 @@ code {
 
 .btn.m-btn--gradient-from-primary.m-btn--gradient-to-brand {
     background: #5867dd;
-    background: -webkit-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: linear-gradient(135deg, #5867dd 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #5867dd 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-primary.m-btn--gradient-to-metal {
@@ -17419,10 +17419,10 @@ code {
 
 .btn.m-btn--gradient-from-primary.m-btn--gradient-to-focus {
     background: #5867dd;
-    background: -webkit-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: linear-gradient(135deg, #5867dd 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #5867dd 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-primary.m-btn--gradient-to-primary {
@@ -17499,10 +17499,10 @@ code {
 
 .btn.m-btn--gradient-from-success.m-btn--gradient-to-brand {
     background: #34bfa3;
-    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: linear-gradient(135deg, #34bfa3 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-success.m-btn--gradient-to-metal {
@@ -17531,10 +17531,10 @@ code {
 
 .btn.m-btn--gradient-from-success.m-btn--gradient-to-focus {
     background: #34bfa3;
-    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: linear-gradient(135deg, #34bfa3 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-success.m-btn--gradient-to-primary {
@@ -17611,10 +17611,10 @@ code {
 
 .btn.m-btn--gradient-from-info.m-btn--gradient-to-brand {
     background: #36a3f7;
-    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: linear-gradient(135deg, #36a3f7 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-info.m-btn--gradient-to-metal {
@@ -17643,10 +17643,10 @@ code {
 
 .btn.m-btn--gradient-from-info.m-btn--gradient-to-focus {
     background: #36a3f7;
-    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: linear-gradient(135deg, #36a3f7 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-info.m-btn--gradient-to-primary {
@@ -17723,10 +17723,10 @@ code {
 
 .btn.m-btn--gradient-from-warning.m-btn--gradient-to-brand {
     background: #ffb822;
-    background: -webkit-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: linear-gradient(135deg, #ffb822 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #ffb822 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-warning.m-btn--gradient-to-metal {
@@ -17755,10 +17755,10 @@ code {
 
 .btn.m-btn--gradient-from-warning.m-btn--gradient-to-focus {
     background: #ffb822;
-    background: -webkit-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: linear-gradient(135deg, #ffb822 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #ffb822 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-warning.m-btn--gradient-to-primary {
@@ -17835,10 +17835,10 @@ code {
 
 .btn.m-btn--gradient-from-danger.m-btn--gradient-to-brand {
     background: #f4516c;
-    background: -webkit-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f4516c 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #f4516c 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-danger.m-btn--gradient-to-metal {
@@ -17867,10 +17867,10 @@ code {
 
 .btn.m-btn--gradient-from-danger.m-btn--gradient-to-focus {
     background: #f4516c;
-    background: -webkit-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f4516c 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #f4516c 30%, #34bfa3 100%)
 }
 
 .btn.m-btn--gradient-from-danger.m-btn--gradient-to-primary {
@@ -17985,9 +17985,9 @@ code {
     -webkit-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
     -moz-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
     box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .26);
-    background: #f29500 !important;
+    background: #34bfa3 !important;
     color: #fff !important;
-    border-color: #f29500 !important
+    border-color: #34bfa3 !important
 }
 
 .btn.btn--skin-dark.m-btn--air.btn-default.focus i,
@@ -18013,9 +18013,9 @@ code {
 .btn.btn--skin-dark.m-btn--hover-brand:focus,
 .btn.btn--skin-dark.m-btn--hover-brand:hover,
 .show>.btn.btn--skin-dark.m-btn--hover-brand.dropdown-toggle {
-    border-color: #f29500 !important;
+    border-color: #34bfa3 !important;
     color: #fff !important;
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .btn.btn--skin-dark.m-btn--hover-brand.active i,
@@ -18032,83 +18032,83 @@ code {
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-brand {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-metal {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: linear-gradient(135deg, #f29500 30%, #c4c5d6 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-light {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: linear-gradient(135deg, #f29500 30%, #fff 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #fff 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-accent {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: linear-gradient(135deg, #f29500 30%, #00c5dc 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-focus {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-primary {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: linear-gradient(135deg, #f29500 30%, #5867dd 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #5867dd 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-success {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: linear-gradient(135deg, #f29500 30%, #34bfa3 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-info {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: linear-gradient(135deg, #f29500 30%, #36a3f7 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-warning {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: linear-gradient(135deg, #f29500 30%, #ffb822 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #ffb822 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-brand.m-btn--gradient-to-danger {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f4516c 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #f4516c 100%)
 }
 
 .btn.btn--skin-dark.m-btn--hover-metal:not(.btn-secondary):not(.btn-outline-light) {
@@ -18145,10 +18145,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-metal.m-btn--gradient-to-brand {
     background: #c4c5d6;
-    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: linear-gradient(135deg, #c4c5d6 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-metal.m-btn--gradient-to-metal {
@@ -18177,10 +18177,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-metal.m-btn--gradient-to-focus {
     background: #c4c5d6;
-    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #f29500 100%);
-    background: linear-gradient(135deg, #c4c5d6 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #c4c5d6 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-metal.m-btn--gradient-to-primary {
@@ -18257,10 +18257,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-light.m-btn--gradient-to-brand {
     background: #fff;
-    background: -webkit-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: linear-gradient(135deg, #fff 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #fff 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-light.m-btn--gradient-to-metal {
@@ -18289,10 +18289,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-light.m-btn--gradient-to-focus {
     background: #fff;
-    background: -webkit-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #fff 30%, #f29500 100%);
-    background: linear-gradient(135deg, #fff 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #fff 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #fff 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-light.m-btn--gradient-to-primary {
@@ -18369,10 +18369,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-accent.m-btn--gradient-to-brand {
     background: #00c5dc;
-    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: linear-gradient(135deg, #00c5dc 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-accent.m-btn--gradient-to-metal {
@@ -18401,10 +18401,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-accent.m-btn--gradient-to-focus {
     background: #00c5dc;
-    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #00c5dc 30%, #f29500 100%);
-    background: linear-gradient(135deg, #00c5dc 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #00c5dc 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-accent.m-btn--gradient-to-primary {
@@ -18461,9 +18461,9 @@ code {
 .btn.btn--skin-dark.m-btn--hover-focus:focus,
 .btn.btn--skin-dark.m-btn--hover-focus:hover,
 .show>.btn.btn--skin-dark.m-btn--hover-focus.dropdown-toggle {
-    border-color: #f29500 !important;
+    border-color: #34bfa3 !important;
     color: #fff !important;
-    background-color: #f29500 !important
+    background-color: #34bfa3 !important
 }
 
 .btn.btn--skin-dark.m-btn--hover-focus.active i,
@@ -18480,83 +18480,83 @@ code {
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-brand {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-metal {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #c4c5d6 100%);
-    background: linear-gradient(135deg, #f29500 30%, #c4c5d6 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #c4c5d6 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-light {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #fff 100%);
-    background: linear-gradient(135deg, #f29500 30%, #fff 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #fff 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #fff 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-accent {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #00c5dc 100%);
-    background: linear-gradient(135deg, #f29500 30%, #00c5dc 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #00c5dc 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-focus {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f29500 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-primary {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #5867dd 100%);
-    background: linear-gradient(135deg, #f29500 30%, #5867dd 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #5867dd 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #5867dd 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-success {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #34bfa3 100%);
-    background: linear-gradient(135deg, #f29500 30%, #34bfa3 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-info {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #36a3f7 100%);
-    background: linear-gradient(135deg, #f29500 30%, #36a3f7 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #36a3f7 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-warning {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #ffb822 100%);
-    background: linear-gradient(135deg, #f29500 30%, #ffb822 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #ffb822 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #ffb822 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-focus.m-btn--gradient-to-danger {
-    background: #f29500;
-    background: -webkit-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -o-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: -moz-linear-gradient(135deg, #f29500 30%, #f4516c 100%);
-    background: linear-gradient(135deg, #f29500 30%, #f4516c 100%)
+    background: #34bfa3;
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f4516c 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #f4516c 100%)
 }
 
 .btn.btn--skin-dark.m-btn--hover-primary:not(.btn-secondary):not(.btn-outline-light) {
@@ -18593,10 +18593,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-primary.m-btn--gradient-to-brand {
     background: #5867dd;
-    background: -webkit-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: linear-gradient(135deg, #5867dd 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #5867dd 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-primary.m-btn--gradient-to-metal {
@@ -18625,10 +18625,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-primary.m-btn--gradient-to-focus {
     background: #5867dd;
-    background: -webkit-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #5867dd 30%, #f29500 100%);
-    background: linear-gradient(135deg, #5867dd 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #5867dd 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #5867dd 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-primary.m-btn--gradient-to-primary {
@@ -18705,10 +18705,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-success.m-btn--gradient-to-brand {
     background: #34bfa3;
-    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: linear-gradient(135deg, #34bfa3 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-success.m-btn--gradient-to-metal {
@@ -18737,10 +18737,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-success.m-btn--gradient-to-focus {
     background: #34bfa3;
-    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #34bfa3 30%, #f29500 100%);
-    background: linear-gradient(135deg, #34bfa3 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #34bfa3 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-success.m-btn--gradient-to-primary {
@@ -18817,10 +18817,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-info.m-btn--gradient-to-brand {
     background: #36a3f7;
-    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: linear-gradient(135deg, #36a3f7 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-info.m-btn--gradient-to-metal {
@@ -18849,10 +18849,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-info.m-btn--gradient-to-focus {
     background: #36a3f7;
-    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #36a3f7 30%, #f29500 100%);
-    background: linear-gradient(135deg, #36a3f7 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #36a3f7 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-info.m-btn--gradient-to-primary {
@@ -18929,10 +18929,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-warning.m-btn--gradient-to-brand {
     background: #ffb822;
-    background: -webkit-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: linear-gradient(135deg, #ffb822 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #ffb822 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-warning.m-btn--gradient-to-metal {
@@ -18961,10 +18961,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-warning.m-btn--gradient-to-focus {
     background: #ffb822;
-    background: -webkit-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #ffb822 30%, #f29500 100%);
-    background: linear-gradient(135deg, #ffb822 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #ffb822 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #ffb822 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-warning.m-btn--gradient-to-primary {
@@ -19041,10 +19041,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-danger.m-btn--gradient-to-brand {
     background: #f4516c;
-    background: -webkit-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f4516c 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #f4516c 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-danger.m-btn--gradient-to-metal {
@@ -19073,10 +19073,10 @@ code {
 
 .btn.btn--skin-dark.m-btn--gradient-from-danger.m-btn--gradient-to-focus {
     background: #f4516c;
-    background: -webkit-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -o-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: -moz-linear-gradient(135deg, #f4516c 30%, #f29500 100%);
-    background: linear-gradient(135deg, #f4516c 30%, #f29500 100%)
+    background: -webkit-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -o-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: -moz-linear-gradient(135deg, #f4516c 30%, #34bfa3 100%);
+    background: linear-gradient(135deg, #f4516c 30%, #34bfa3 100%)
 }
 
 .btn.btn--skin-dark.m-btn--gradient-from-danger.m-btn--gradient-to-primary {
@@ -19256,7 +19256,7 @@ code {
 }
 
 .m-spinner.m-spinner--brand {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-spinner.m-spinner--metal {
@@ -19272,7 +19272,7 @@ code {
 }
 
 .m-spinner.m-spinner--focus {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-spinner.m-spinner--primary {
@@ -19428,7 +19428,7 @@ code {
 }
 
 .m-loader.m-loader--brand:before {
-    border-top-color: #f29500
+    border-top-color: #34bfa3
 }
 
 .m-loader.m-loader--metal:before {
@@ -19444,7 +19444,7 @@ code {
 }
 
 .m-loader.m-loader--focus:before {
-    border-top-color: #f29500
+    border-top-color: #34bfa3
 }
 
 .m-loader.m-loader--primary:before {
@@ -19641,7 +19641,7 @@ code {
 }
 
 .m-list-search .m-list-search__results .m-list-search__result-category {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-list-search .m-list-search__results .m-list-search__result-item .m-list-search__result-item-icon {
@@ -19653,7 +19653,7 @@ code {
 }
 
 .m-list-search .m-list-search__results .m-list-search__result-item:hover .m-list-search__result-item-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-list-search.m-list-search--skin-dark .m-dropdown__header:after {
@@ -19690,7 +19690,7 @@ code {
 }
 
 .m-list-search.m-list-search--skin-dark .m-list-search__results .m-list-search__result-category {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-list-search.m-list-search--skin-dark .m-list-search__results .m-list-search__result-item .m-list-search__result-item-icon {
@@ -19702,7 +19702,7 @@ code {
 }
 
 .m-list-search.m-list-search--skin-dark .m-list-search__results .m-list-search__result-item:hover .m-list-search__result-item-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-list-timeline__group {
@@ -19849,7 +19849,7 @@ code {
 }
 
 .m-list-timeline .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--brand:before {
-   border: 1px solid #f29500
+   border: 1px solid #34bfa3
 }
 
 .m-list-timeline .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--metal:before {
@@ -19865,7 +19865,7 @@ code {
 }
 
 .m-list-timeline .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--focus:before {
-   border: 1px solid #f29500
+   border: 1px solid #34bfa3
 }
 
 .m-list-timeline .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--primary:before {
@@ -19918,7 +19918,7 @@ code {
 }
 
 .m-list-timeline.m-list-timeline--skin-dark .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--brand:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-list-timeline.m-list-timeline--skin-dark .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--metal:before {
@@ -19934,7 +19934,7 @@ code {
 }
 
 .m-list-timeline.m-list-timeline--skin-dark .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--focus:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-list-timeline.m-list-timeline--skin-dark .m-list-timeline__items .m-list-timeline__item .m-list-timeline__badge.m-list-timeline__badge--primary:before {
@@ -20674,7 +20674,7 @@ code {
 }
 
 .m-messenger .m-messenger__messages .m-messenger__message.m-messenger__message--out .m-messenger__message-content {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-messenger .m-messenger__messages .m-messenger__message.m-messenger__message--out .m-messenger__message-content .m-messenger__message-username {
@@ -20694,7 +20694,7 @@ code {
 }
 
 .m-messenger.m-messenger.m-messenger--message-arrow .m-messenger__message.m-messenger__message--out .m-messenger__message-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-messenger.m-messenger--skin-dark .m-messenger__form .m-messenger__form-input {
@@ -20765,7 +20765,7 @@ code {
 }
 
 .m-messenger.m-messenger--skin-dark .m-messenger__messages .m-messenger__message.m-messenger__message--out .m-messenger__message-content {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-messenger.m-messenger--skin-dark .m-messenger__messages .m-messenger__message.m-messenger__message--out .m-messenger__message-content .m-messenger__message-username {
@@ -20785,7 +20785,7 @@ code {
 }
 
 .m-messenger.m-messenger--skin-dark.m-messenger.m-messenger--message-arrow .m-messenger__message.m-messenger__message--out .m-messenger__message-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-portlet {
@@ -21405,7 +21405,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet .m-portlet__head .m-portlet__head-tools .m-portlet__nav .m-portlet__nav-item .m-portlet__nav-link.m-portlet__nav-link--icon:hover i {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-portlet .m-portlet__body {
@@ -21448,7 +21448,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--creative .m-portlet__head .m-portlet__head-caption .m-portlet__head-label.m-portlet__head-label--brand {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -21468,7 +21468,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--creative .m-portlet__head .m-portlet__head-caption .m-portlet__head-label.m-portlet__head-label--focus {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -21569,7 +21569,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--skin-dark.m-portlet--creative .m-portlet__head .m-portlet__head-caption .m-portlet__head-label.m-portlet__head-label--brand {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -21589,7 +21589,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--skin-dark.m-portlet--creative .m-portlet__head .m-portlet__head-caption .m-portlet__head-label.m-portlet__head-label--focus {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -21619,13 +21619,13 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--brand.m-portlet--head-solid-bg {
-    background: #f29500;
-    border-color: #f29500
+    background: #34bfa3;
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--brand.m-portlet--head-solid-bg .m-portlet__head {
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--brand.m-portlet--head-solid-bg .m-portlet__head .m-portlet__head-icon {
@@ -21710,11 +21710,11 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 
 .m-portlet.m-portlet--brand.m-portlet--head-solid-bg .m-portlet__foot {
     background: #fff;
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--border-bottom-brand {
-    border-bottom: 3px solid #f29500
+    border-bottom: 3px solid #34bfa3
 }
 
 .m-portlet.m-portlet--metal.m-portlet--head-solid-bg {
@@ -22015,13 +22015,13 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-portlet.m-portlet--focus.m-portlet--head-solid-bg {
-    background: #f29500;
-    border-color: #f29500
+    background: #34bfa3;
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--focus.m-portlet--head-solid-bg .m-portlet__head {
-    background-color: #f29500;
-    border-color: #f29500
+    background-color: #34bfa3;
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--focus.m-portlet--head-solid-bg .m-portlet__head .m-portlet__head-icon {
@@ -22106,11 +22106,11 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 
 .m-portlet.m-portlet--focus.m-portlet--head-solid-bg .m-portlet__foot {
     background: #fff;
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-portlet.m-portlet--border-bottom-focus {
-    border-bottom: 3px solid #f29500
+    border-bottom: 3px solid #34bfa3
 }
 
 .m-portlet.m-portlet--primary.m-portlet--head-solid-bg {
@@ -22755,7 +22755,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-widget2__item.m-widget2__item--brand:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-widget2__item.m-widget2__item--metal:before {
@@ -22771,7 +22771,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-widget2__item.m-widget2__item--focus:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-widget2__item.m-widget2__item--primary:before {
@@ -23035,7 +23035,7 @@ body.m-portlet--fullscreen.m-aside-left--fixed .m-aside-left {
 }
 
 .m-widget4__item .m-widget4__icon:hover>i {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-widget4__item.m-widget4__item--last,
@@ -24968,19 +24968,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--brand>input:disabled~span {
@@ -25000,7 +25000,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--brand.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--metal.m-checkbox--disabled {
@@ -25144,19 +25144,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--focus>input:disabled~span {
@@ -25176,7 +25176,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--focus.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--primary.m-checkbox--disabled {
@@ -25463,19 +25463,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--brand>input:disabled~span {
@@ -25495,7 +25495,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--brand.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--metal.m-radio--disabled {
@@ -25639,19 +25639,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--focus>input:disabled~span {
@@ -25671,7 +25671,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--focus.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--primary.m-radio--disabled {
@@ -25958,19 +25958,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand>input:disabled~span {
@@ -25990,7 +25990,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--brand.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--metal.m-checkbox--disabled {
@@ -26134,19 +26134,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus>input:disabled~span {
@@ -26166,7 +26166,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--focus.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--skin-dark.m-checkbox--primary.m-checkbox--disabled {
@@ -26453,19 +26453,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand>input:disabled~span {
@@ -26485,7 +26485,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--skin-dark.m-radio--brand.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--metal.m-radio--disabled {
@@ -26629,19 +26629,19 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus>input:disabled~span {
@@ -26661,7 +26661,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--skin-dark.m-radio--focus.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--skin-dark.m-radio--primary.m-radio--disabled {
@@ -26895,23 +26895,23 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-brand>span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-brand>input:disabled~span {
@@ -26919,7 +26919,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-brand.m-checkbox--solid>span {
-    background: #f29500;
+    background: #34bfa3;
     border: 1px solid transparent !important
 }
 
@@ -26932,7 +26932,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-brand.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--state-brand.m-radio--disabled {
@@ -26940,23 +26940,23 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-brand>span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-brand>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--state-brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-brand>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--state-brand>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-brand>input:disabled~span {
@@ -26964,7 +26964,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-brand.m-radio--solid>span {
-    background: #f29500;
+    background: #34bfa3;
     border: 1px solid transparent !important
 }
 
@@ -26977,7 +26977,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-brand.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-metal.m-checkbox--disabled {
@@ -27255,23 +27255,23 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-focus>span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-focus>input:disabled~span {
@@ -27279,7 +27279,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-focus.m-checkbox--solid>span {
-    background: #f29500;
+    background: #34bfa3;
     border: 1px solid transparent !important
 }
 
@@ -27292,7 +27292,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-checkbox.m-checkbox--state-focus.m-checkbox--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-radio.m-radio--state-focus.m-radio--disabled {
@@ -27300,23 +27300,23 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-focus>span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-focus>span:after {
-    border: solid #f29500
+    border: solid #34bfa3
 }
 
 .m-radio.m-radio--state-focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-focus>input:disabled~span:after {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-radio.m-radio--state-focus>input:checked~span {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .m-radio.m-radio--state-focus>input:disabled~span {
@@ -27324,7 +27324,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-focus.m-radio--solid>span {
-    background: #f29500;
+    background: #34bfa3;
     border: 1px solid transparent !important
 }
 
@@ -27337,7 +27337,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-radio.m-radio--state-focus.m-radio--solid>input:checked~span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-checkbox.m-checkbox--state-primary.m-checkbox--disabled {
@@ -28166,7 +28166,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .form-control:focus {
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28197,7 +28197,7 @@ th>.m-checkbox.m-checkbox--single {
 
 .form-control.m-input--solid:focus {
     background-color: #ebedf2;
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28260,7 +28260,7 @@ th>.m-checkbox.m-checkbox--single {
 
 .input-group.m-input-group--solid .form-control:focus {
     background-color: #ebedf2;
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28301,7 +28301,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .form-control.form-control--skin-dark:focus {
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28332,7 +28332,7 @@ th>.m-checkbox.m-checkbox--single {
 
 .form-control.form-control--skin-dark.m-input--solid:focus {
     background-color: #ebedf2;
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28395,7 +28395,7 @@ th>.m-checkbox.m-checkbox--single {
 
 .input-group.input-group--skin-dark.m-input-group--solid .form-control:focus {
     background-color: #ebedf2;
-    border-color: #f29500;
+    border-color: #34bfa3;
     color: #575962
 }
 
@@ -28619,7 +28619,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     color: #fff;
     -webkit-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .41);
     -moz-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .41);
@@ -28637,17 +28637,17 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--brand:not(.m-switch--outline) input:empty~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--brand:not(.m-switch--outline) input:empty~span:after {
-    color: #f29500;
+    color: #34bfa3;
     background-color: #fff;
     opacity: .4
 }
 
 .m-switch.m-switch--brand:not(.m-switch--outline) input:checked~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--brand:not(.m-switch--outline) input:checked~span:after {
@@ -28668,7 +28668,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--outline.m-switch--brand input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     opacity: 1
 }
 
@@ -28781,17 +28781,17 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--focus:not(.m-switch--outline) input:empty~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--focus:not(.m-switch--outline) input:empty~span:after {
-    color: #f29500;
+    color: #34bfa3;
     background-color: #fff;
     opacity: .4
 }
 
 .m-switch.m-switch--focus:not(.m-switch--outline) input:checked~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--focus:not(.m-switch--outline) input:checked~span:after {
@@ -28812,7 +28812,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--outline.m-switch--focus input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     opacity: 1
 }
 
@@ -29013,7 +29013,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--skin-dark input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     color: #fff;
     -webkit-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .41);
     -moz-box-shadow: 0 3px 20px 0 rgba(113, 106, 202, .41);
@@ -29031,17 +29031,17 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--skin-dark.m-switch--brand:not(.m-switch--outline) input:empty~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--skin-dark.m-switch--brand:not(.m-switch--outline) input:empty~span:after {
-    color: #f29500;
+    color: #34bfa3;
     background-color: #fff;
     opacity: .4
 }
 
 .m-switch.m-switch--skin-dark.m-switch--brand:not(.m-switch--outline) input:checked~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--skin-dark.m-switch--brand:not(.m-switch--outline) input:checked~span:after {
@@ -29062,7 +29062,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--skin-dark.m-switch--outline.m-switch--brand input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     opacity: 1
 }
 
@@ -29175,17 +29175,17 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--skin-dark.m-switch--focus:not(.m-switch--outline) input:empty~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--skin-dark.m-switch--focus:not(.m-switch--outline) input:empty~span:after {
-    color: #f29500;
+    color: #34bfa3;
     background-color: #fff;
     opacity: .4
 }
 
 .m-switch.m-switch--skin-dark.m-switch--focus:not(.m-switch--outline) input:checked~span:before {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-switch.m-switch--skin-dark.m-switch--focus:not(.m-switch--outline) input:checked~span:after {
@@ -29206,7 +29206,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-switch.m-switch--skin-dark.m-switch--outline.m-switch--focus input:checked~span:after {
-    background-color: #f29500;
+    background-color: #34bfa3;
     opacity: 1
 }
 
@@ -29700,7 +29700,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .has-success .form-control:focus {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-form.m-form--state .has-success .form-control,
@@ -29735,7 +29735,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .has-warning .form-control:focus {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-form.m-form--state .has-warning .form-control,
@@ -29770,7 +29770,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .has-danger .form-control:focus {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-form.m-form--state .has-danger .form-control,
@@ -29807,7 +29807,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-table.m-table--head-bg-brand thead th {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
     border-bottom: 0;
     border-top: 0
@@ -29815,12 +29815,12 @@ th>.m-checkbox.m-checkbox--single {
 
 .m-table.m-table--head-separator-brand thead th {
     border-top: 0;
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-table tr.m-table__row--brand td,
 .m-table tr.m-table__row--brand th {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
     border-bottom: 0;
     border-top: 0
@@ -29829,7 +29829,7 @@ th>.m-checkbox.m-checkbox--single {
 .m-table.m-table--border-brand,
 .m-table.m-table--border-brand td,
 .m-table.m-table--border-brand th {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-table.m-table--head-bg-metal thead th {
@@ -29911,7 +29911,7 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .m-table.m-table--head-bg-focus thead th {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
     border-bottom: 0;
     border-top: 0
@@ -29919,12 +29919,12 @@ th>.m-checkbox.m-checkbox--single {
 
 .m-table.m-table--head-separator-focus thead th {
     border-top: 0;
-    border-bottom: 1px solid #f29500
+    border-bottom: 1px solid #34bfa3
 }
 
 .m-table tr.m-table__row--focus td,
 .m-table tr.m-table__row--focus th {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
     border-bottom: 0;
     border-top: 0
@@ -29933,7 +29933,7 @@ th>.m-checkbox.m-checkbox--single {
 .m-table.m-table--border-focus,
 .m-table.m-table--border-focus td,
 .m-table.m-table--border-focus th {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-table.m-table--head-bg-primary thead th {
@@ -31029,7 +31029,7 @@ th>.m-checkbox.m-checkbox--single {
 
 .daterangepicker .daterangepicker_input .input-mini.active,
 .daterangepicker .daterangepicker_input .input-mini:focus {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .daterangepicker .daterangepicker_input i {
@@ -31102,7 +31102,7 @@ th>.m-checkbox.m-checkbox--single {
 .daterangepicker select.monthselect:focus,
 .daterangepicker select.yearselect.active,
 .daterangepicker select.yearselect:focus {
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .daterangepicker .calendar-time i {
@@ -31121,9 +31121,9 @@ th>.m-checkbox.m-checkbox--single {
 }
 
 .daterangepicker .ranges li.active {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
-    border: 1px solid #f29500
+    border: 1px solid #34bfa3
 }
 
 .bootstrap-timepicker-widget {
@@ -31222,7 +31222,7 @@ th>.m-checkbox.m-checkbox--single {
 .m-bootstrap-touchspin-brand .bootstrap-touchspin .btn:focus,
 .m-bootstrap-touchspin-brand .bootstrap-touchspin .btn:hover {
     color: #fff !important;
-    background: #f29500 !important
+    background: #34bfa3 !important
 }
 
 .m-bootstrap-touchspin-brand .bootstrap-touchspin .btn.focus>i,
@@ -31348,8 +31348,8 @@ th>.m-checkbox.m-checkbox--single {
 
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brand,
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brand {
-    background-color: #f29500;
-    border-color: #f29500;
+    background-color: #34bfa3;
+    border-color: #34bfa3;
     color: #fff
 }
 
@@ -31376,8 +31376,8 @@ th>.m-checkbox.m-checkbox--single {
 
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-focus,
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-focus {
-    background-color: #f29500;
-    border-color: #f29500;
+    background-color: #34bfa3;
+    border-color: #34bfa3;
     color: #fff
 }
 
@@ -31672,7 +31672,7 @@ select.m-bootstrap-select {
 
 .bootstrap-select.btn-group.show>.dropdown-toggle.btn-default,
 .bootstrap-select.btn-group.show>.dropdown-toggle.btn-secondary {
-    border-color: #f29500 !important;
+    border-color: #34bfa3 !important;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -31952,7 +31952,7 @@ select.m-select2 {
 .select2-container--default.select2-container--focus .select2-selection--single,
 .select2-container--default.select2-container--open .select2-selection--multiple,
 .select2-container--default.select2-container--open .select2-selection--single {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .select2-container--default .select2-selection--single .select2-selection__rendered {
@@ -32179,15 +32179,15 @@ select.m-select2 {
 }
 
 .noUi-target.m-nouislider.m-nouislider--connect-brand .noUi-connect {
-    background: #f29500
+    background: #34bfa3
 }
 
 .noUi-target.m-nouislider.m-nouislider--handle-brand .noUi-handle {
     border: 0;
-    background: #f29500;
-    -webkit-box-shadow: 0 3px 6px -3px #f29500;
-    -moz-box-shadow: 0 3px 6px -3px #f29500;
-    box-shadow: 0 3px 6px -3px #f29500
+    background: #34bfa3;
+    -webkit-box-shadow: 0 3px 6px -3px #34bfa3;
+    -moz-box-shadow: 0 3px 6px -3px #34bfa3;
+    box-shadow: 0 3px 6px -3px #34bfa3
 }
 
 .noUi-target.m-nouislider.m-nouislider--connect-metal .noUi-connect {
@@ -32227,15 +32227,15 @@ select.m-select2 {
 }
 
 .noUi-target.m-nouislider.m-nouislider--connect-focus .noUi-connect {
-    background: #f29500
+    background: #34bfa3
 }
 
 .noUi-target.m-nouislider.m-nouislider--handle-focus .noUi-handle {
     border: 0;
-    background: #f29500;
-    -webkit-box-shadow: 0 3px 6px -3px #f29500;
-    -moz-box-shadow: 0 3px 6px -3px #f29500;
-    box-shadow: 0 3px 6px -3px #f29500
+    background: #34bfa3;
+    -webkit-box-shadow: 0 3px 6px -3px #34bfa3;
+    -moz-box-shadow: 0 3px 6px -3px #34bfa3;
+    box-shadow: 0 3px 6px -3px #34bfa3
 }
 
 .noUi-target.m-nouislider.m-nouislider--connect-primary .noUi-connect {
@@ -32307,7 +32307,7 @@ select.m-select2 {
 }
 
 .noUi-target .noUi-connect {
-    background: #f29500
+    background: #34bfa3
 }
 
 .noUi-target .noUi-handle {
@@ -32360,7 +32360,7 @@ select.m-select2 {
 }
 
 .m-dropzone.m-dropzone--brand {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-dropzone.m-dropzone--metal {
@@ -32376,7 +32376,7 @@ select.m-select2 {
 }
 
 .m-dropzone.m-dropzone--focus {
-    border-color: #f29500
+    border-color: #34bfa3
 }
 
 .m-dropzone.m-dropzone--primary {
@@ -33007,7 +33007,7 @@ select.m-select2 {
 }
 
 .fc-unthemed .fc-list-item-title>a[href]:hover {
-    color: #f29500;
+    color: #34bfa3;
     text-decoration: none
 }
 
@@ -33017,7 +33017,7 @@ select.m-select2 {
 
 .fc-unthemed .fc-event-dot.fc-start.m-fc-event--brand .fc-content:before,
 .fc-unthemed .fc-event.fc-start.m-fc-event--brand .fc-content:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-event-dot.fc-not-start.fc-end.m-fc-event--solid-brand,
@@ -33026,7 +33026,7 @@ select.m-select2 {
 .fc-unthemed .fc-event.fc-not-start.fc-end.m-fc-event--solid-brand,
 .fc-unthemed .fc-event.fc-not-start.fc-not-end.m-fc-event--solid-brand,
 .fc-unthemed .fc-event.fc-start.m-fc-event--solid-brand {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-event-dot.fc-not-start.fc-end.m-fc-event--solid-brand .fc-title,
@@ -33181,7 +33181,7 @@ select.m-select2 {
 
 .fc-unthemed .fc-event-dot.fc-start.m-fc-event--focus .fc-content:before,
 .fc-unthemed .fc-event.fc-start.m-fc-event--focus .fc-content:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-event-dot.fc-not-start.fc-end.m-fc-event--solid-focus,
@@ -33190,7 +33190,7 @@ select.m-select2 {
 .fc-unthemed .fc-event.fc-not-start.fc-end.m-fc-event--solid-focus,
 .fc-unthemed .fc-event.fc-not-start.fc-not-end.m-fc-event--solid-focus,
 .fc-unthemed .fc-event.fc-start.m-fc-event--solid-focus {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-event-dot.fc-not-start.fc-end.m-fc-event--solid-focus .fc-title,
@@ -33462,12 +33462,12 @@ select.m-select2 {
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--brand .fc-content:before,
 .fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end.m-fc-event--brand .fc-content:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--solid-brand,
 .fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end.m-fc-event--solid-brand {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--solid-brand .fc-title,
@@ -33562,12 +33562,12 @@ select.m-select2 {
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--focus .fc-content:before,
 .fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end.m-fc-event--focus .fc-content:before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--solid-focus,
 .fc-unthemed .fc-popover .fc-body .fc-event.fc-not-start.fc-not-end.m-fc-event--solid-focus {
-    background: #f29500
+    background: #34bfa3
 }
 
 .fc-unthemed .fc-popover .fc-body .fc-event-dot.fc-not-start.fc-not-end.m-fc-event--solid-focus .fc-title,
@@ -33739,8 +33739,8 @@ select.m-select2 {
 
 .fc-unthemed .fc-list-item.m-fc-event--brand .fc-event-dot,
 .fc-unthemed .fc-list-item.m-fc-event--solid-brand .fc-event-dot {
-    background: #f29500;
-    border-color: #f29500
+    background: #34bfa3;
+    border-color: #34bfa3
 }
 
 .fc-unthemed .fc-list-item.m-fc-event--metal .fc-event-dot,
@@ -33763,8 +33763,8 @@ select.m-select2 {
 
 .fc-unthemed .fc-list-item.m-fc-event--focus .fc-event-dot,
 .fc-unthemed .fc-list-item.m-fc-event--solid-focus .fc-event-dot {
-    background: #f29500;
-    border-color: #f29500
+    background: #34bfa3;
+    border-color: #34bfa3
 }
 
 .fc-unthemed .fc-list-item.m-fc-event--primary .fc-event-dot,
@@ -33812,7 +33812,7 @@ select.m-select2 {
 .fc-unthemed .fc-toolbar .fc-button:active,
 .fc-unthemed .fc-toolbar .fc-button:focus {
     border: 0;
-    background: #f29500;
+    background: #34bfa3;
     color: #fff;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -33870,7 +33870,7 @@ select.m-select2 {
 }
 
 .m-quick-sidebar .m-quick-sidebar__close:hover {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-quick-sidebar.m-quick-sidebar--skin-dark {
@@ -33885,7 +33885,7 @@ select.m-select2 {
 }
 
 .m-quick-sidebar.m-quick-sidebar--skin-dark .m-quick-sidebar__close:hover {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-quick-sidebar-close {
@@ -34342,7 +34342,7 @@ select.m-select2 {
 }
 
 .m-pricing-table-2 .m-pricing-table-2__head .btn-group .btn.active {
-    background: #f29500;
+    background: #34bfa3;
     color: #fff
 }
 
@@ -34611,16 +34611,16 @@ select.m-select2 {
 }
 
 .m-login.m-login--1 .m-login__wrapper .m-login__form .m-form__group .form-control:focus::-moz-placeholder {
-    color: #f29500;
+    color: #34bfa3;
     opacity: 1
 }
 
 .m-login.m-login--1 .m-login__wrapper .m-login__form .m-form__group .form-control:focus:-ms-input-placeholder {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-login.m-login--1 .m-login__wrapper .m-login__form .m-form__group .form-control:focus::-webkit-input-placeholder {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-login.m-login--1 .m-login__wrapper .m-login__form .m-form__group.has-danger .form-control-feedback {
@@ -35367,16 +35367,16 @@ select.m-select2 {
 }
 
 .m-login.m-login--5 .m-login__wrapper-2 .m-login__contanier .m-login__form .m-form__group .form-control:focus::-moz-placeholder {
-    color: #f29500;
+    color: #34bfa3;
     opacity: 1
 }
 
 .m-login.m-login--5 .m-login__wrapper-2 .m-login__contanier .m-login__form .m-form__group .form-control:focus:-ms-input-placeholder {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-login.m-login--5 .m-login__wrapper-2 .m-login__contanier .m-login__form .m-form__group .form-control:focus::-webkit-input-placeholder {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-login.m-login--5 .m-login__wrapper-2 .m-login__contanier .m-login__form .m-form__group.has-danger .form-control-feedback {
@@ -36226,7 +36226,7 @@ body.m-content--skin-light2 {
 }
 
 .m-brand.m-brand--skin-dark {
-    background: #1e202f
+    background: #a3c761
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler span {
@@ -36239,21 +36239,21 @@ body.m-content--skin-light2 {
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler:hover span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler:hover span::after,
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler:hover span::before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler.m-brand__toggler--active span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::after,
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-dark .m-brand__tools .m-brand__icon>i {
@@ -36282,21 +36282,21 @@ body.m-content--skin-light2 {
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::after,
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::after,
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::before {
-    background: #f29500
+    background: #34bfa3
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__icon>i {
@@ -36308,7 +36308,7 @@ body.m-content--skin-light2 {
 }
 
 .m-brand.m-brand--skin-light .m-brand__tools .m-brand__icon:hover>i {
-    color: #f29500
+    color: #34bfa3
 }
 
 @media (min-width:993px) {
@@ -36881,7 +36881,7 @@ body.m-content--skin-light2 {
 }
 
 .m-aside-left.m-aside-left--skin-dark {
-    background-color: #2c2e3d
+    background-color: #a3c761
 }
 
 .m-aside-left.m-aside-left--skin-light {
@@ -37104,7 +37104,7 @@ body.m-content--skin-light2 {
         color: #968ad4
     }
     .m-aside-left-close.m-aside-left-close--skin-dark:hover {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left-close.m-aside-left-close--skin-dark:hover>i {
         color: #fff
@@ -37116,7 +37116,7 @@ body.m-content--skin-light2 {
         color: #777c9d
     }
     .m-aside-left-close.m-aside-left-close--skin-light:hover {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left-close.m-aside-left-close--skin-light:hover>i {
         color: #fff
@@ -37262,7 +37262,7 @@ body.m-content--skin-light2 {
         color: #968ad4
     }
     .m-aside-header-menu-mobile-close.m-aside-header-menu-mobile-close--skin-dark:hover {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile-close.m-aside-header-menu-mobile-close--skin-dark:hover>i {
         color: #fff
@@ -37274,7 +37274,7 @@ body.m-content--skin-light2 {
         color: #777c9d
     }
     .m-aside-header-menu-mobile-close.m-aside-header-menu-mobile-close--skin-light:hover {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile-close.m-aside-header-menu-mobile-close--skin-light:hover>i {
         color: #fff
@@ -38000,39 +38000,39 @@ body.m-content--skin-light2 {
         color: #b9c1d4
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-icon,
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--skin-light .m-menu__nav>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav {
         background-color: #fff;
@@ -38056,39 +38056,39 @@ body.m-content--skin-light2 {
         color: #b9c1d4
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-icon,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content>.m-menu__item {
         border-right: 1px solid #f6f7fa
@@ -38115,39 +38115,39 @@ body.m-content--skin-light2 {
         color: #b9c1d4
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-icon,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-light .m-menu__nav.m-menu__nav--submenu-arrow>.m-menu__item.m-menu__item--submenu.m-menu__item--hover>.m-menu__submenu .m-menu__arrow {
         color: #fff
@@ -38177,7 +38177,7 @@ body.m-content--skin-light2 {
         background-color: #676a8a
     }
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
         color: #676a8a
@@ -38196,7 +38196,7 @@ body.m-content--skin-light2 {
     }
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--skin-dark .m-menu__nav>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
@@ -38233,7 +38233,7 @@ body.m-content--skin-light2 {
         background-color: #404356
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
         color: #676a8a
@@ -38252,7 +38252,7 @@ body.m-content--skin-light2 {
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
@@ -38292,7 +38292,7 @@ body.m-content--skin-light2 {
         background-color: #404356
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--active>.m-menu__link>.m-menu__hor-arrow {
         color: #676a8a
@@ -38311,7 +38311,7 @@ body.m-content--skin-light2 {
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link .m-menu__link-text,
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item.m-menu__item--hover>.m-menu__link>.m-menu__hor-arrow,
     .m-header-menu.m-header-menu--submenu-skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu>.m-menu__subnav .m-menu__content .m-menu__inner>.m-menu__item:hover>.m-menu__link>.m-menu__hor-arrow {
@@ -39091,23 +39091,23 @@ body.m-content--skin-light2 {
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__section .m-menu__section-text {
         color: #464b66
@@ -39180,23 +39180,23 @@ body.m-content--skin-light2 {
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__section .m-menu__section-text {
         color: #464b66
@@ -39308,23 +39308,23 @@ body.m-content--skin-light2 {
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item>.m-menu__arrow {
         color: #fff
@@ -39424,23 +39424,23 @@ body.m-content--skin-light2 {
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-header-menu-mobile.m-aside-header-menu-mobile--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__section .m-menu__section-text {
         color: #a4a7bd
@@ -40032,7 +40032,7 @@ body.m-content--skin-light2 {
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--open {
     background-color: #5d6184;
-    border-left: 5px solid #f29500;
+    border-left: 5px solid #34bfa3;
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--open>.m-menu__heading .m-menu__link-text,
@@ -40090,17 +40090,17 @@ body.m-content--skin-light2 {
     color: #fff
 }
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item{
-    border-left: 5px solid #0f1018; 
+    border-left: 5px solid #fff; 
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item:hover, .m-menu__item.m-menu__item--active{
-    background-color: #5d6184;
-    border-left: 5px solid #f29500 !important; 
+    background-color: #fff;
+    border-left: 5px solid #34bfa3 !important; 
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item:hover>.m-menu__heading .m-menu__link-text,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item:hover>.m-menu__link .m-menu__link-text {
-    color: #fff
+    color: #000
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item:hover>.m-menu__heading .m-menu__link-icon,
@@ -40125,27 +40125,27 @@ body.m-content--skin-light2 {
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-    color: #fff;
+    color: #000;
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-    color: #fff
+    color: #000
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__section .m-menu__section-text {
@@ -40238,27 +40238,27 @@ body.m-content--skin-light2 {
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__section .m-menu__section-text {
@@ -40399,27 +40399,27 @@ body.m-content--skin-light2 {
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item>.m-menu__arrow {
@@ -40545,27 +40545,27 @@ body.m-content--skin-light2 {
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-    background-color: #f29500
+    background-color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-aside-menu.m-aside-menu--skin-light .m-menu__nav>.m-menu__item .m-menu__submenu .m-menu__section .m-menu__section-text {
@@ -40989,31 +40989,31 @@ body.m-content--skin-light2 {
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__section .m-menu__section-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-dark .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__section .m-menu__section-text {
@@ -41168,31 +41168,31 @@ body.m-content--skin-light2 {
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-text {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-icon,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--dot>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--dot>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__link-bullet.m-menu__link-bullet--line>span,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__link-bullet.m-menu__link-bullet--line>span {
-        background-color: #f29500
+        background-color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__heading .m-menu__ver-arrow,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__item.m-menu__item--active>.m-menu__link .m-menu__ver-arrow {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__section .m-menu__section-text,
     .m-aside-menu.m-aside-menu--dropdown.m-aside-menu--submenu-skin-light .m-menu__nav .m-menu__item.m-menu__item--hover>.m-menu__submenu>.m-menu__subnav .m-menu__section .m-menu__section-text {
@@ -41469,7 +41469,7 @@ body.m-content--skin-light2 {
         background: 0 0
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item.m-menu__item--open>.m-menu__link>.m-menu__link-icon {
-        color: #f29500
+        color: #34bfa3
     }
     .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item:hover {
         background: 0 0
@@ -41547,11 +41547,11 @@ body.m-content--skin-light2 {
 }
 
 .m-subheader .m-subheader__breadcrumbs.m-nav>.m-nav__item>.m-nav__link:hover>.m-nav__link-text {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-subheader .m-subheader__breadcrumbs.m-nav>.m-nav__item>.m-nav__link:hover>.m-nav__link-icon {
-    color: #f29500
+    color: #34bfa3
 }
 
 .m-subheader .m-subheader__breadcrumbs.m-nav>.m-nav__item.m-nav__item--home>.m-nav__link>.m-nav__link-icon {

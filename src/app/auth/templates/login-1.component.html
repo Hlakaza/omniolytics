@@ -83,10 +83,10 @@
 								</div>
 							</div>
 							<div class="m-login__form-action">
-								<button [disabled]="loading" [ngClass]="{'m-loader m-loader--right m-loader--light': loading}" id="m_login_signup_submit" class="btn btn-success">
+								<button [disabled]="loading" [ngClass]="{'m-loader m-loader--right m-loader--light': loading}" id="m_login_signup_submit" class="pull-left btn btn-success">
 									Sign Up
 								</button>
-								<button [disabled]="loading"  id="m_login_signup_cancel" class="btn btn-primary">
+								<button [disabled]="loading"  id="m_login_signup_cancel" class="pull-right btn btn-danger">
 									Cancel
 								</button>
 							</div>
@@ -107,10 +107,10 @@
 								<input class="form-control m-input login-input" type="text" placeholder="Email" name="email" [(ngModel)]="model.email" #email="ngModel" id="m_email" autocomplete="off">
 							</div>
 							<div class="m-login__form-action">
-								<button [disabled]="loading" [ngClass]="{'m-loader m-loader--right m-loader--light': loading}" id="m_login_forget_password_submit" class="btn btn-success">
+								<button [disabled]="loading" [ngClass]="{'m-loader m-loader--right m-loader--light': loading}" id="m_login_forget_password_submit" class="pull-left btn btn-success">
 									Request
 								</button>
-								<button [disabled]="loading"  id="m_login_forget_password_cancel" class="btn btn-primary">
+								<button [disabled]="loading"  id="m_login_forget_password_cancel" class="pull-right btn btn-danger">
 									Cancel
 								</button>
 							</div>
