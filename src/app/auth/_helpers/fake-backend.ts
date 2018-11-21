@@ -23,10 +23,10 @@ export function mockBackEndFactory(backend: MockBackend, options: BaseRequestOpt
                 });
 
                 // default account
-                if (params.email === 'admin@digitrack.com' && params.password === 'admin') {
+                if (params.email === 'admin@Omniolytics.com' && params.password === 'admin') {
                     filteredUsers[0] = {
                         fullName: 'Admin',
-                        email: 'admin@digitrack.com',
+                        email: 'admin@Omniolytics.com',
                         password: 'admin',
                     };
                 }

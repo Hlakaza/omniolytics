@@ -18,7 +18,7 @@ const routes: Routes = [
                 'loadChildren': '.\/pages\/default\/angular\/primeng\/primeng.module#PrimengModule'
             },
             /**
-             * Digitrack Routes
+             * Omniolytics Routes
              */
             {
                 'path': 'home',
@@ -53,7 +53,7 @@ const routes: Routes = [
                 'loadChildren': '.\/pages\/default\/profile\/profile.module#ProfileModule'
             },
             /**
-             * End Digitrack Routes
+             * End Omniolytics Routes
              */
             {
                 'path': 'components\/base\/typography',
