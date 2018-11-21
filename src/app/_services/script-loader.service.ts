@@ -1,4 +1,4 @@
-import { Injectable } from "@angular/core";
+import { Injectable } from '@angular/core';
 import * as $ from 'jquery';
 
 declare let document: any;
@@ -17,7 +17,7 @@ export class ScriptLoaderService {
         this.tag = tag;
         scripts.forEach((script: string) => this._scripts[script] = { src: script, loaded: false });
 
-        let promises: any[] = [];
+        const promises: any[] = [];
         scripts.forEach((script) => promises.push(this.loadScript(script)));
         return Promise.all(promises);
     }
@@ -25,13 +25,12 @@ export class ScriptLoaderService {
     loadScript(src: string) {
         return new Promise((resolve, reject) => {
 
-            //resolve if already loaded
+            // resolve if already loaded
             if (this._scripts[src].loaded) {
                 resolve({ script: src, loaded: true, status: 'Already Loaded' });
-            }
-            else {
-                //load script
-                let script = $('<script/>')
+            } else {
+                // load script
+                const script = $('<script/>')
                     .attr('type', 'text/javascript')
                     .attr('src', this._scripts[src].src);
 

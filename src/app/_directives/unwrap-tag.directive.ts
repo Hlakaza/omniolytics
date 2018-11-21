@@ -3,7 +3,7 @@ import { Helpers } from '../helpers';
 
 
 @Directive({
-    selector: "[appunwraptag]",
+    selector: '[appunwraptag]',
 })
 export class UnwrapTagDirective implements AfterViewInit {
 
@@ -12,7 +12,7 @@ export class UnwrapTagDirective implements AfterViewInit {
 
     }
     ngAfterViewInit() {
-        let nativeElement: HTMLElement = this.el.nativeElement;
+        const nativeElement: HTMLElement = this.el.nativeElement;
         Helpers.unwrapTag(nativeElement);
     }
 

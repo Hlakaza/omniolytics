@@ -4,6 +4,7 @@ import { ScriptLoaderService } from '../../../../_services/script-loader.service
 
 
 @Component({
+    // tslint:disable-next-line:component-selector
     selector: '.m-grid__item.m-grid__item--fluid.m-wrapper',
     templateUrl: './account-management.component.html',
     encapsulation: ViewEncapsulation.None,
