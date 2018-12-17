@@ -206,7 +206,7 @@ var Dashboard = function () {
               backgroundColor: mUtil.getColor('accent'),
               pointHoverBackgroundColor: mUtil.getColor('danger'),
               pointHoverBorderColor: Chart.helpers.color(mUtil.getColor('danger')).alpha(.2).rgbString(),
-              data: [10, 20, 16, 18, 12, 40, 35, 30, 33, 34, 45, 40, 60, 55, 70, 65, 75, 62]
+              data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
             }]
           },
           options: {
@@ -530,14 +530,14 @@ var Dashboard = function () {
       0 != $('#m_chart_support_tickets').length && Morris.Donut({
         element: 'm_chart_support_tickets',
         data: [{
-          label: 'Average',
-          value: 20
+          label: 'None',
+          value: 100
         }, {
           label: 'Good',
-          value: 70
+          value: 0
         }, {
           label: 'Bad',
-          value: 10
+          value: 0
         }],
         labelColor: '#a7a7c2',
         colors: [mUtil.getColor('accent'), mUtil.getColor('brand'), mUtil.getColor('danger')]
@@ -546,19 +546,19 @@ var Dashboard = function () {
     p = function () {
       0 != $('#m_chart_support_tickets2').length && new Chartist.Pie('#m_chart_support_tickets2', {
         series: [{
-          value: 70,
+          value: 0,
           className: 'custom',
           meta: {
             color: mUtil.getColor('brand')
           }
         }, {
-          value: 20,
+          value: 0,
           className: 'custom',
           meta: {
             color: mUtil.getColor('accent')
           }
         }, {
-          value: 10,
+          value: 0,
           className: 'custom',
           meta: {
             color: mUtil.getColor('warning')
@@ -850,16 +850,16 @@ var Dashboard = function () {
               pointBorderColor: Chart.helpers.color('#000000').alpha(0).rgbString(),
               pointHoverBackgroundColor: mUtil.getColor('danger'),
               pointHoverBorderColor: Chart.helpers.color('#000000').alpha(.1).rgbString(),
-              data: [12, 16, 9, 18, 13, 12, 18, 12, 15, 17]
+              data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
             }, {
-              label: 'AdWords Views',
+              label: 'Water quality',
               backgroundColor: mUtil.getColor('accent'),
               borderColor: mUtil.getColor('accent'),
               pointBackgroundColor: Chart.helpers.color('#000000').alpha(0).rgbString(),
               pointBorderColor: Chart.helpers.color('#000000').alpha(0).rgbString(),
               pointHoverBackgroundColor: mUtil.getColor('danger'),
               pointHoverBorderColor: Chart.helpers.color('#000000').alpha(.1).rgbString(),
-              data: [10, 14, 12, 16, 9, 11, 13, 9, 13, 15]
+              data: [0, 0, 0, 0, 0, 0, 0, 0, 0]
             }]
           },
           options: {
