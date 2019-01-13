@@ -393,9 +393,6 @@ MIT
 @angular/platform-browser
 MIT
 
-@angular/http
-MIT
-
 css-element-queries
 MIT
 Copyright (c) 2013 Marc J. Schmidt
@@ -419,7 +416,16 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/http
+MIT
+
 @angular/router
+MIT
+
+@angular/animations
+MIT
+
+@angular/core
 MIT
 
 rxjs-compat
@@ -627,12 +633,6 @@ Apache-2.0
  limitations under the License.
  
 
-
-@angular/animations
-MIT
-
-@angular/core
-MIT
 
 @angular/forms
 MIT
